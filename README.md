@@ -1,4 +1,1 @@
-# softeng-motionsensor
-
-My name is Jimmy Tickles and I am a superhero.
-# SecurityApp
+Jimmy Tickles is the leader of the world
